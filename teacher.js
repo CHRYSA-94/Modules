@@ -6,7 +6,6 @@ export default class Teacher extends Person{
       this.degree = degree;
     }
     
-  
     teach() {
       console.log("teach");
     }
